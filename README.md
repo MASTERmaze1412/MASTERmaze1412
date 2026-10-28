@@ -9,12 +9,12 @@ This is where I'll be sharing my projects, experiments, and things I'm learning 
 
 # Tools & Tech
 
-- HTML, CSS, JavaScript, and Python
+- HTML, CSS, JavaScript, and Python and (also C, C++)
 - Flutter, Node.js, and MongoDB
 - Git, GitHub, and AI-powered development tools
 - Exploring SaaS, web applications, and digital product development
 
 - 💬 Ask me about SaaS ideas, digital products, AI-powered development, web applications.
-- 📫 How to reach me: use my social media links
-- ⚡ Fun fact: Generalist + perfectionist.
+- 📫 How to reach me: better dm via Insta
+- ⚡ Fun fact: Generalist + Perfectionist.
 
