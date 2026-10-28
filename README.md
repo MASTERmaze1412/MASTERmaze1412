@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm an Electronics, Communication, and Information engineer from Nepal, currently exploring software development and digital products.
 
-<!--
-**MASTERmaze1412/MASTERmaze1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in building useful web applications, experimenting with SaaS ideas, and figuring out how technology can solve real-world problems. I enjoy exploring ideas, designing how things should work, and turning them into something people can actually use.
 
-Here are some ideas to get you started:
+This is where I'll be sharing my projects, experiments, and things I'm learning along the way. I prefer building from scratch, understanding how things work, and using AI as a tool to learn faster and build better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Tools & Tech
+
+- HTML, CSS, JavaScript, and Python
+- Flutter, Node.js, and MongoDB
+- Git, GitHub, and AI-powered development tools
+- Exploring SaaS, web applications, and digital product development
+
+- 💬 Ask me about SaaS ideas, digital products, AI-powered development, web applications.
+- 📫 How to reach me: use my social media links
+- ⚡ Fun fact: Generalist + perfectionist.
+
